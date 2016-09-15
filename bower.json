@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ahmed Fathi <a.fathi.eg@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/plugins",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "datatables": "^1.10.12",
+    "bootstrap-rtl": "^3.4.0",
+    "datatables-plugins": "^1.10.12",
+    "font-awesome": "^4.6.3",
+    "bootstrap-switch": "^3.3.2",
+    "masonry": "^4.1.1",
+    "freewall": "^1.0.6"
+  }
+}

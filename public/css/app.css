@@ -1,0 +1,18 @@
+@import '/plugins/bootstrap/dist/css/bootstrap.min.css';
+/*@import '/plugins/bootstrap-rtl/dist/css/bootstrap-rtl.min.css';*/
+@import '/plugins/bootstrap-rtl/dist/css/bootstrap-flipped.min.css';
+
+.news-block {
+    height: 250px;
+    width: 300px;
+    /*overflow: hidden;*/
+}
+.news-block img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+.news-body img{
+    max-width:100%;
+    max-height:100%;
+}
